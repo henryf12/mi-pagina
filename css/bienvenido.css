@@ -1,0 +1,10 @@
+#bienvenido h2 {
+    text-align: inherit;
+    font-family: serif
+}
+
+#bienvenido .contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
